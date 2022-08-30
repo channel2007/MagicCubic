@@ -1,5 +1,5 @@
 # 前言
-# MagicCubic(魔方)
+* MagicCubic(魔方)
 
 # 準備材料
 
