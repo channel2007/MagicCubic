@@ -16,8 +16,12 @@
 # 線路圖
 ![alt WiringDiagram](https://github.com/channel2007/MagicCubic/blob/master/Images/WiringDiagram.png "WiringDiagram")
 
-# 需安裝函數庫
+# 安裝函數庫
 * [Arduino_GFX](https://github.com/moononournation/Arduino_GFX)
+
+# 目錄功能說明
+* MagicCubic_GIF
+  * GIF檔案撥放器
 
 # 版權宣告
 * 請勿使用在商業用途上
