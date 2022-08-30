@@ -20,6 +20,7 @@
 * [Arduino_GFX](https://github.com/moononournation/Arduino_GFX)
   * 安裝完畢開啟(Arduino_ST7789.cpp)檔案
   * 找到 r = ST7789_MADCTL_RGB; 修改為 r = ST7789_MADCTL_MX | ST7789_MADCTL_RGB;
+  * 以上修改是讓影像輸出改為鏡像，這樣在分光棱鏡投射後才能正常顯示
  
 * [PNGdec](https://github.com/bitbank2/PNGdec)
 
