@@ -24,9 +24,13 @@
  
 * [PNGdec](https://github.com/bitbank2/PNGdec)
 
+# 安裝上傳檔案工具
+* [arduino-esp32fs-plugin]([https://github.com/bitbank2/PNGdec](https://github.com/me-no-dev/arduino-esp32fs-plugin/releases/))
+* 請使用此工具將個別韌體目錄內的data目錄上傳到ESP32 SPIFFS內
+
 # 目錄功能說明
 * MagicCubic_GIF
-  * GIF撥放器
+  * GIF撥放器  
 * MagicCubic_Clock
   * 電子時鐘    
 
