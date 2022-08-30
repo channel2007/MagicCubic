@@ -26,9 +26,6 @@
 * MagicCubic_Clock
   * 電子時鐘
 
-# 版權宣告
-* 請勿使用在商業用途上
-
 # 官方紛絲團 
 [無限升級](https://www.facebook.com/unlimited.upgrade/posts/2840132506240869?notif_id=1617421138749926&notif_t=page_post_reaction&ref=notif)
 
