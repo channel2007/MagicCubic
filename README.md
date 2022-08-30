@@ -1,5 +1,5 @@
 # MagicCubic(魔方)
-![alt TBoy](https://github.com/channel2007/MagicCubic/Images/MagicCubic.png "MagicCubic")
+![alt MagicCubic](https://github.com/channel2007/MagicCubic/blob/master/Images/MagicCubic.png "MagicCubic")
 
 # 前言
 * 
