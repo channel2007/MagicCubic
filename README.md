@@ -22,7 +22,7 @@
 
 # 讓MagicCubic(魔方)連上WIFI
 * 請建立一檔案config.txt，在裡面輸入WIFI名稱與WIFI密碼存檔後將此檔案放入Micro SD卡內，並插入機器後方的Micro SD插槽
-![alt WiringDiagram](https://github.com/channel2007/MagicCubic/blob/master/Images/WiringDiagram.png "WiringDiagram")
+![alt Wifi](https://github.com/channel2007/MagicCubic/blob/master/Images/Wifi.png "Wifi")
 
 # 目錄功能說明
 * MagicCubic_GIF
