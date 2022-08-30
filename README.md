@@ -14,7 +14,7 @@
 * 杜邦線
 
 # 線路圖
-![alt TBoy](https://github.com/channel2007/MagicCubic/Images/WiringDiagram.png "WiringDiagram")
+![alt WiringDiagram](https://github.com/channel2007/MagicCubic/blob/master/Images/WiringDiagram.png "WiringDiagram")
 
 # 需安裝函數庫
 
