@@ -4,13 +4,14 @@
 # 準備材料
 * D1MINI KIT ESP32 開發板
 * TFT1.3寸IPS彩色顯示模組240X240 ST7789 3.3V
-* 分光棱鏡25.4*25.4*25.4mm
+* 分光棱鏡25.4x25.4x25.4mm
 * Micro SD卡模組
 * 五向導航按鍵模組
 * 400孔麵包板
 * 杜邦線
 
 # 線路圖
+![alt TBoy](https://github.com/channel2007/TBoy_ZooCube/blob/master/Images/WiringDiagram.png "WiringDiagram")
 
 # 需安裝函數庫
 
