@@ -18,10 +18,13 @@
 
 # 安裝函數庫
 * [Arduino_GFX](https://github.com/moononournation/Arduino_GFX)
+* [PNGdec](https://github.com/bitbank2/PNGdec)
 
 # 目錄功能說明
 * MagicCubic_GIF
-  * GIF檔案撥放器
+  * GIF撥放器
+* MagicCubic_Clock
+  * 電子時鐘
 
 # 版權宣告
 * 請勿使用在商業用途上
