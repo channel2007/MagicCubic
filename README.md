@@ -1,5 +1,8 @@
+# MagicCubic(魔方)
+![alt TBoy](https://github.com/channel2007/MagicCubic/Images/MagicCubic.png "MagicCubic")
+
 # 前言
-* MagicCubic(魔方)
+* 
 
 # 準備材料
 * D1MINI KIT ESP32 開發板
@@ -11,7 +14,7 @@
 * 杜邦線
 
 # 線路圖
-![alt TBoy](https://github.com/channel2007/TBoy_ZooCube/blob/master/Images/WiringDiagram.png "WiringDiagram")
+![alt TBoy](https://github.com/channel2007/MagicCubic/Images/WiringDiagram.png "WiringDiagram")
 
 # 需安裝函數庫
 
