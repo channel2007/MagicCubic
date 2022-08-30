@@ -18,17 +18,20 @@
 
 # 安裝函數庫
 * [Arduino_GFX](https://github.com/moononournation/Arduino_GFX)
+ * 安裝完畢開啟(Arduino_ST7789.cpp)檔案
+ * 找到 r = ST7789_MADCTL_RGB; 修改為 r = ST7789_MADCTL_MX | ST7789_MADCTL_RGB;
+ 
 * [PNGdec](https://github.com/bitbank2/PNGdec)
-
-# 讓MagicCubic(魔方)連上WIFI
-* 請建立一檔案config.txt，在裡面輸入WIFI名稱與WIFI密碼存檔後將此檔案放入Micro SD卡內，並插入機器後方的Micro SD插槽
-![alt Wifi](https://github.com/channel2007/MagicCubic/blob/master/Images/Wifi.png "Wifi")
 
 # 目錄功能說明
 * MagicCubic_GIF
   * GIF撥放器
 * MagicCubic_Clock
   * 電子時鐘    
+
+# 讓MagicCubic(魔方)連上WIFI
+* 請建立一檔案config.txt，在裡面輸入WIFI名稱與WIFI密碼存檔後將此檔案放入Micro SD卡內，並插入機器後方的Micro SD插槽
+![alt Wifi](https://github.com/channel2007/MagicCubic/blob/master/Images/Wifi.png "Wifi")
 
 # 官方紛絲團 
 [無限升級](https://www.facebook.com/unlimited.upgrade/posts/2840132506240869?notif_id=1617421138749926&notif_t=page_post_reaction&ref=notif)
