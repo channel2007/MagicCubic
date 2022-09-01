@@ -40,7 +40,7 @@
 ![alt Wifi](https://github.com/channel2007/MagicCubic/blob/master/Images/Wifi.png "Wifi")
 
 # 特別感謝
-* 範例中所使用到的GIF為麥斯的古中作樂部落格作者創作
+* 範例中所使用到的GIF檔案為麥斯的古中作樂部落格作者之創作
   * [麥斯的古中作樂 MaXX's Retro Fun](https://maxxkao.blogspot.com/)
 
 # 官方紛絲團 
